@@ -15,10 +15,11 @@ console.log(password, email)
 
 //step4 varify email and passowrd
 if(email==='amirhossain.bc.75@gmail.com' && password ==='amir2002'){
-    console.log("valid User");
+   window.location.href='bank.html';
+
 }
 else{
-    console.log('invalid user')
+    alert('vul password ba gmail disos !')
 }
 
 })
