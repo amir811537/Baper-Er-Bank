@@ -14,7 +14,7 @@ const password =passwordField.value;
 console.log(password, email)
 
 //step4 varify email and passowrd
-if(email==='amirhossain.bc.75@gmail.com' && password ==='amir2002'){
+if(email==='amirhossain.bc.75@gmail.com' && password ==='baaperbank123'){
    window.location.href='bank.html';
 
 }
